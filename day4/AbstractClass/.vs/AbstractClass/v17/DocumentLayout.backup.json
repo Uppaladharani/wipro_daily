@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\wipro_daily\\day4\\AbstractClass\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0DE546F0-7224-474B-8D15-0C4299DD12BB}|AbstractClass\\AbstractClass.csproj|c:\\wipro_daily\\day4\\abstractclass\\abstractclass\\oopsex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DE546F0-7224-474B-8D15-0C4299DD12BB}|AbstractClass\\AbstractClass.csproj|solutionrelative:abstractclass\\oopsex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DE546F0-7224-474B-8D15-0C4299DD12BB}|AbstractClass\\AbstractClass.csproj|c:\\wipro_daily\\day4\\abstractclass\\abstractclass\\employ.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DE546F0-7224-474B-8D15-0C4299DD12BB}|AbstractClass\\AbstractClass.csproj|solutionrelative:abstractclass\\employ.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DE546F0-7224-474B-8D15-0C4299DD12BB}|AbstractClass\\AbstractClass.csproj|c:\\wipro_daily\\day4\\abstractclass\\abstractclass\\krishna.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DE546F0-7224-474B-8D15-0C4299DD12BB}|AbstractClass\\AbstractClass.csproj|solutionrelative:abstractclass\\krishna.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DE546F0-7224-474B-8D15-0C4299DD12BB}|AbstractClass\\AbstractClass.csproj|c:\\wipro_daily\\day4\\abstractclass\\abstractclass\\arjun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DE546F0-7224-474B-8D15-0C4299DD12BB}|AbstractClass\\AbstractClass.csproj|solutionrelative:abstractclass\\arjun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Arjun.cs",
+              "DocumentMoniker": "C:\\wipro_daily\\day4\\AbstractClass\\AbstractClass\\Arjun.cs",
+              "RelativeDocumentMoniker": "AbstractClass\\Arjun.cs",
+              "ToolTip": "C:\\wipro_daily\\day4\\AbstractClass\\AbstractClass\\Arjun.cs",
+              "RelativeToolTip": "AbstractClass\\Arjun.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T06:15:13.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Krishna.cs",
+              "DocumentMoniker": "C:\\wipro_daily\\day4\\AbstractClass\\AbstractClass\\Krishna.cs",
+              "RelativeDocumentMoniker": "AbstractClass\\Krishna.cs",
+              "ToolTip": "C:\\wipro_daily\\day4\\AbstractClass\\AbstractClass\\Krishna.cs",
+              "RelativeToolTip": "AbstractClass\\Krishna.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T06:11:47.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employ.cs",
+              "DocumentMoniker": "C:\\wipro_daily\\day4\\AbstractClass\\AbstractClass\\Employ.cs",
+              "RelativeDocumentMoniker": "AbstractClass\\Employ.cs",
+              "ToolTip": "C:\\wipro_daily\\day4\\AbstractClass\\AbstractClass\\Employ.cs",
+              "RelativeToolTip": "AbstractClass\\Employ.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T06:09:47.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OopsEx.cs",
+              "DocumentMoniker": "C:\\wipro_daily\\day4\\AbstractClass\\AbstractClass\\OopsEx.cs",
+              "RelativeDocumentMoniker": "AbstractClass\\OopsEx.cs",
+              "ToolTip": "C:\\wipro_daily\\day4\\AbstractClass\\AbstractClass\\OopsEx.cs*",
+              "RelativeToolTip": "AbstractClass\\OopsEx.cs*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T06:08:15.49Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
