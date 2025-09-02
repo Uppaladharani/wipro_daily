@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\wipro_daily\\day3\\calculationlibrary\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\wipro_daily\\day2\\demo2\\demo2\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5AC57FE-DAFF-4700-97DD-BC9D4FD5A7DB}|CalculationClient\\CalculationClient.csproj|c:\\wipro_daily\\day3\\calculationlibrary\\calculationclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5AC57FE-DAFF-4700-97DD-BC9D4FD5A7DB}|CalculationClient\\CalculationClient.csproj|solutionrelative:calculationclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BBCAD75-3245-428A-A21D-2B6B7ABC798C}|calculationlibrary\\calculationlibrary.csproj|c:\\wipro_daily\\day3\\calculationlibrary\\calculationlibrary\\calculation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BBCAD75-3245-428A-A21D-2B6B7ABC798C}|calculationlibrary\\calculationlibrary.csproj|solutionrelative:calculationlibrary\\calculation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "circle.cs",
+              "DocumentMoniker": "C:\\wipro_daily\\day2\\demo2\\demo2\\circle.cs",
+              "RelativeDocumentMoniker": "..\\..\\day2\\demo2\\demo2\\circle.cs",
+              "ToolTip": "C:\\wipro_daily\\day2\\demo2\\demo2\\circle.cs",
+              "RelativeToolTip": "..\\..\\day2\\demo2\\demo2\\circle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T11:18:47.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\wipro_daily\\day3\\calculationlibrary\\CalculationClient\\Program.cs",
+              "RelativeDocumentMoniker": "CalculationClient\\Program.cs",
+              "ToolTip": "C:\\wipro_daily\\day3\\calculationlibrary\\CalculationClient\\Program.cs",
+              "RelativeToolTip": "CalculationClient\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T10:30:45.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Calculation.cs",
+              "DocumentMoniker": "C:\\wipro_daily\\day3\\calculationlibrary\\calculationlibrary\\Calculation.cs",
+              "RelativeDocumentMoniker": "calculationlibrary\\Calculation.cs",
+              "ToolTip": "C:\\wipro_daily\\day3\\calculationlibrary\\calculationlibrary\\Calculation.cs",
+              "RelativeToolTip": "calculationlibrary\\Calculation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T10:26:29.072Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
