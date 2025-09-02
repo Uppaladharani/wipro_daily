@@ -2,6 +2,7 @@
   "name": "inventory-management-system",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://uppaladharani.github.io/wipro_daily",
   "type": "module",
   "rocketCritical": {
     "dependencies": [
@@ -36,6 +37,7 @@
     "date-fns": "^4.1.0",
     "dotenv": "^16.0.1",
     "framer-motion": "^10.16.4",
+    "gh-pages": "^6.3.0",
     "lucide-react": "^0.484.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
@@ -54,7 +56,9 @@
     "dev": "vite",
     "start": "vite",
     "build": "vite build --sourcemap",
-    "serve": "vite preview"
+    "serve": "vite preview",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist"
   },
   "eslintConfig": {
     "extends": [
